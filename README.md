@@ -90,5 +90,5 @@
 ### Stats
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=ramdan&theme=dark" alt="Ramdan's GitHub activity graph" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=onlyramdan&theme=dark" alt="Ramdan's GitHub activity graph" />
 </p>
