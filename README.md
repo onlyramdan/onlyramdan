@@ -7,13 +7,13 @@
 <h3 align="center">A passionate Web Developer</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ramdan"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/ramdan"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white" /></a>
-  <a href="https://dribbble.com/ramdan"><img src="https://img.shields.io/badge/-Dribbble-EA4C89?logo=dribbble&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/onlyramdan"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/onlyramdan"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white" /></a>
+  <a href="https://medium.com/@onlyramdanbelajar"><img src="https://img.shields.io/badge/-Medium-000000?logo=medium&logoColor=white" /> </a>
 </p>
 
 <p align="center">
-  Hi, I'm Ramdan. A passionate Web Developer based in [Your Location]. 📍
+  Hi, I'm Ramdan. A passionate Web Developer based in Bogor. 📍
 </p>
 
 <h2 align="center">About Me</h2>
