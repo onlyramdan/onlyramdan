@@ -1,8 +1,3 @@
-<!-- Your Profile Avatar -->
-<p align="center">
-  <img src="path/to/your/avatar.png" width="150" height="150" alt="Ramdan"/>
-</p>
-
 <h1 align="center">Hi, I'm Ramdan 👋</h1>
 <h3 align="center">A passionate Web Developer</h3>
 
@@ -14,11 +9,6 @@
 
 <p align="center">
   Hi, I'm Ramdan. A passionate Web Developer based in Bogor. 📍
-</p>
-
-<h2 align="center">🚀 About Me</h2>
-<p align="center">
-  <img src="path/to/your/profile-banner.png" width="600" alt="Profile Banner"/>
 </p>
 
 - 🔭 I’m currently working on **[Some Project](https://perpus-iot.my.id)**
@@ -82,6 +72,7 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
+
 ![onlyramdan's GitHub stats](https://github-readme-stats.vercel.app/api?username=onlyramdan&count_private=true&show_icons=true&theme=dark)
 
 ### Most Used Languages
