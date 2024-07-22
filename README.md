@@ -26,7 +26,7 @@
 - 📫 How to reach me **contactonlyramdan@gmail.com**
 - 📄 Know about my experiences [here](https://onlyramdan.github.io)
 
-### 💻 Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
   <!-- Go -->
@@ -79,10 +79,9 @@
   </a>
 </p>
 
-### 📊 Stats
+## 📊 GitHub Stats:
 
-## GitHub Stats:
-
+<p align="center">
 ![onlyramdan's GitHub stats](https://github-readme-stats.vercel.app/api?username=onlyramdan&count_private=true&show_icons=true&theme=dark)
 
 ### Most Used Languages
@@ -92,3 +91,5 @@
 ### Streak Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=onlyramdan&theme=dark)
+
+</p>
