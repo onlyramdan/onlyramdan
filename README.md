@@ -21,55 +21,55 @@
 <p align="center">
   <!-- Go -->
   <a href="https://golang.org">
-    <img src="https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white" alt="Go" />
+    <img src="https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white" alt="Go" style="border:none" />
   </a>
   <!-- Ruby -->
   <a href="https://www.ruby-lang.org">
-    <img src="https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white" alt="Ruby" />
+    <img src="https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white" alt="Ruby" style="border:none" />
   </a>
   <!-- PHP -->
   <a href="https://www.php.net">
-    <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white" alt="PHP" />
+    <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white" alt="PHP" style="border:none" />
   </a>
   <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1C?logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1C?logo=javascript&logoColor=black" alt="JavaScript" style="border:none" />
   </a>
   <!-- Python -->
   <a href="https://www.python.org">
-    <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python" style="border:none" />
   </a>
   <!-- Laravel -->
   <a href="https://laravel.com">
-    <img src="https://img.shields.io/badge/-Laravel-EF4135?logo=laravel&logoColor=white" alt="Laravel" />
+    <img src="https://img.shields.io/badge/-Laravel-EF4135?logo=laravel&logoColor=white" alt="Laravel" style="border:none" />
   </a>
   <!-- CodeIgniter -->
   <a href="https://codeigniter.com">
-    <img src="https://img.shields.io/badge/-CodeIgniter-EF4223?logo=codeigniter&logoColor=white" alt="CodeIgniter" />
+    <img src="https://img.shields.io/badge/-CodeIgniter-EF4223?logo=codeigniter&logoColor=white" alt="CodeIgniter" style="border:none" />
   </a>
   <!-- Gin -->
   <a href="https://github.com/gin-gonic/gin">
-    <img src="https://img.shields.io/badge/-Gin-00C000?logo=go&logoColor=white" alt="Gin" />
+    <img src="https://img.shields.io/badge/-Gin-00C000?logo=go&logoColor=white" alt="Gin" style="border:none" />
   </a>
   <!-- Ruby on Rails -->
   <a href="https://rubyonrails.org">
-    <img src="https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?logo=ruby&logoColor=white" alt="Ruby on Rails" />
+    <img src="https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?logo=ruby&logoColor=white" alt="Ruby on Rails" style="border:none" />
   </a>
   <!-- MySQL -->
   <a href="https://www.mysql.com">
-    <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" style="border:none" />
   </a>
   <!-- PostgreSQL -->
   <a href="https://www.postgresql.org">
-    <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL" style="border:none" />
   </a>
   <!-- MongoDB -->
   <a href="https://www.mongodb.com">
-    <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" style="border:none" />
   </a>
 </p>
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
 <p align="center">
 
