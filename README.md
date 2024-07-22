@@ -16,17 +16,17 @@
   Hi, I'm Ramdan. A passionate Web Developer based in Bogor. 📍
 </p>
 
-<h2 align="center">About Me</h2>
+<h2 align="center">🚀 About Me</h2>
 <p align="center">
   <img src="path/to/your/profile-banner.png" width="600" alt="Profile Banner"/>
 </p>
 
 - 🔭 I’m currently working on **[Some Project](https://perpus-iot.my.id)**
-- 🌱 I’m currently learning **Golang, .NET, Ruby on Rails**
+- 🌱 I’m currently learning **Golang, .NET, Ruby on Rails, and Nodejs**
 - 📫 How to reach me **contactonlyramdan@gmail.com**
-- 📄 Know about my experiences [here](https://ramdan.my.id)
+- 📄 Know about my experiences [here](https://onlyramdan.github.io)
 
-### Programing Langguage
+### 💻 Tech Stack
 
 <p align="center">
   <!-- Go -->
@@ -79,16 +79,16 @@
   </a>
 </p>
 
-### Achievements
+### 📊 Stats
 
-<p align="center">
-  <img src="path/to/achievement1.png" width="50" height="50" alt="Achievement 1"/>
-  <img src="path/to/achievement2.png" width="50" height="50" alt="Achievement 2"/>
-  <img src="path/to/achievement3.png" width="50" height="50" alt="Achievement 3"/>
-</p>
+## GitHub Stats:
 
-### Stats
+![onlyramdan's GitHub stats](https://github-readme-stats.vercel.app/api?username=onlyramdan&count_private=true&show_icons=true&theme=dark)
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=onlyramdan&theme=dark" alt="Ramdan's GitHub activity graph" />
-</p>
+### Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onlyramdan&layout=compact&theme=dark)
+
+### Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=onlyramdan&theme=dark)
